@@ -1,0 +1,14 @@
+{
+  "name": "quest-vr-webxr",
+  "version": "0.1.0",
+  "description": "WebXR site for Quest with Node.js backend and Socket.IO presence",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "socket.io": "^4.7.5"
+  }
+}
